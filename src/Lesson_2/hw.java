@@ -1,6 +1,6 @@
 package Lesson_2;
 
-public class MyFirstClass {
+public class hw {
     public static void main(String[] args) {
 
         // Задача 1. Дано: Хитрый бухгалтер разделил 5 рублей на 2 кассы. Сколько рублей лежит в каждой кассе?
@@ -42,11 +42,11 @@ public class MyFirstClass {
         // Порядок следования переменных в этой строке изменять нельзя.
        //  Перед каждой переменной должен стоять знак либо плюс, либо минус.
 
-            int a = 1;
-            int b = 3;
-            int c = 9;
-            int d = 27;
-            int result = -a + b - c + d;
-                System.out.println(result);
+        //    int a = 1;
+          //  int b = 3;
+            // int c = 9;
+           //  int d = 27;
+            // int result = -a + b - c + d;
+            //    System.out.println(result);
     }
    }

@@ -1,6 +1,6 @@
 package lesson_5;
 
-public class HW5 {
+public class mySixthClass {
     public static void main (String[] args) {
        // 1 Создать массив на 10 строк.
         // 2. Ввести с клавиатуры 8 строк и сохранить их в массив.
